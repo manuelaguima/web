@@ -1,0 +1,16 @@
+body{
+    align-items: center;
+    text-align: center;
+    color: black;
+    background-color: #FFD9B3;
+   
+}
+
+ a {
+    color: black;
+    background-color:  #FFF8DC;
+     border-radius: 50px;
+     width: 60px;
+     height: 30px;
+     font-size: 2rem;
+}
